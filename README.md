@@ -1,4 +1,4 @@
-Medieval Doctor is a game i've been working on with my friends since 12.2023. This repository serves as a presentation of mechanics and systems i've created for the game. 
+Medieval Doctor is a game i've been working on with my friends since 12.2023. This repository serves as a presentation of mechanics and systems i've created for the game. Our team currently consists of 4 people, 3 programmers and 1 graphic/designer. 
 
 The game's gameplay is about curing patients from various sicknesses with the premise of being able to do whatever you want to them. For example you can cut off on arm from someone who has a cold.
 
