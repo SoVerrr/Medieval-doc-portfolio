@@ -9,6 +9,7 @@ Technologies used in the project:
 - C#
 - Newtonsoft JSON
 - Unity Events
+- New input system
 
 List of mechanics/systems i've created/collaborated on:
 - Patient system 
