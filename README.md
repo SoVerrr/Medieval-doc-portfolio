@@ -2,6 +2,8 @@ Medieval Doctor is a game i've been working on with my friends since 12.2023. Th
 
 The game's gameplay is about curing patients from various sicknesses with the premise of being able to do whatever you want to them. For example you can cut off on arm from someone who has a cold.
 
+Prototype gameplay video: https://www.youtube.com/watch?v=XjgmXvPG714
+
 Technologies used in the project:
 - Unity
 - C#
@@ -16,7 +18,8 @@ List of mechanics/systems i've created/collaborated on:
 
   - Symptom system - adding and removing symptoms
  
-    ![image](https://github.com/SoVerrr/Medieval-doc-portfolio/assets/82769474/8c931395-b8e9-498a-a82d-b35ad4546dd3)
+    ![image](https://github.com/SoVerrr/Medieval-doc-portfolio/assets/82769474/e0d6b9f4-8dff-43b8-b2ea-8a5574c23903)
+
 
   - Dependencies system - checking if a certain symptom can be added or removed depending on other symptoms present/not present
  
@@ -27,6 +30,12 @@ List of mechanics/systems i've created/collaborated on:
   ![image](https://github.com/SoVerrr/Medieval-doc-portfolio/assets/82769474/650c3bd6-c656-4256-ab79-fb47771890aa)
 
 - File management system - built using Newtonsoft framework
-- Upgrade system 
-- Player interaction system
+- Upgrade system
+
+  ![image](https://github.com/SoVerrr/Medieval-doc-portfolio/assets/82769474/6d616eb7-f3ea-4296-b502-b969da390469)
+
+- Player interaction system - created using interfaces, events, and an overlapbox cast in front of the player which is shared by various systems present in the game.
 - Picking up items/furniture with blueprints to put them down (collaborated)
+- State machine used to transition between game states (Menu, loading screen, game, summary state)
+- Walls fade'ing when they are obstructing player's view. (Present in the prototype gameplay video)
+
